@@ -1,2 +1,2 @@
 # MapReduce-MutualFriends
-Mapreduce to find the Top10 Friends 
+Analyse the given Soc-LiveJournel data to find the Top 10 Friends using Hadoop Mapreduce.
